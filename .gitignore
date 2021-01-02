@@ -2,3 +2,4 @@ postscrape/spiders/__pycache__/*
 postscrape/__pycache__/*
 *.ps1
 .env
+venv/*
